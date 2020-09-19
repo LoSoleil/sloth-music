@@ -49,13 +49,14 @@ li {
 }
 .leftContent {
   background-color: gainsboro;
-  padding: 40px;
+  padding: 16px;
+  height: 523px;
 }
 li:nth-child(1) {
   font-size: 12px;
   color: gray;
 }
 li:nth-child(1) > span:nth-child(1) {
-  padding-right: 60px;
+  padding-right: 66px;
 }
 </style>
